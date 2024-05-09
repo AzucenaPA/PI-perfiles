@@ -1,0 +1,26 @@
+.biography-container div{
+    margin-bottom: 1%;
+}
+
+.d-flex{
+    background-color: black;
+    color: aliceblue;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 3%;
+    margin-right: 3%;
+    
+}
+
+.foto-perfiles-der {
+    width: 150px; 
+    height: 150px;
+    border-radius: 100% 100% 100% 0%;
+}
+
+.foto-perfiles-izq {
+    width: 150px; 
+    height: 150px;
+    border-radius: 100% 0% 100% 100%;
+}
